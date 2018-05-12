@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32904'
     url: http://www.gutenberg.org/2009/agents/32904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27778#Outlines-of-Dairy-Bacteriology-8th-editionA-Concise-Manual-for-the-Use-of-Students-in-Dairyin_
 gutenberg_bookshelf: Microbiology
 gutenberg_issued: '2009-01-11'
 gutenberg_type: Text
